@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <infos>
+        <city id="cs">
+            <temp>20℃/30℃</temp>
+            <weather>晴转多云</weather>
+            <name>长沙</name>
+            <pm>80</pm>
+            <wind>1级</wind>
+        </city>
+        <city id="ld">
+            <temp>26℃/32℃</temp>
+            <weather>晴</weather>
+            <name>娄底</name>
+            <pm>88</pm>
+            <wind>3级</wind>
+        </city>
+        <city id="xt">
+            <temp>15℃/25℃</temp>
+            <weather>多云</weather>
+            <name>湘潭</name>
+            <pm>80</pm>
+            <wind>5级</wind>
+        </city>
+    </infos>
+</resources>
